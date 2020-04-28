@@ -1,5 +1,5 @@
-![hyper logo](https://cdns.tblsft.com/sites/default/files/blog/hyper_logo_1.jpg)
-^this will be smaller
+<img src="https://cdns.tblsft.com/sites/default/files/blog/hyper_logo_1.jpg" width="100" height="100">
+
 
 # Hyper API Code Examples
 [![Tableau Supported](https://img.shields.io/badge/Support%20Level-Tableau%20Supported-53bd92.svg)](https://www.tableau.com/support-levels-it-and-developer-tools)
