@@ -5,7 +5,7 @@
 [![Tableau Supported](https://img.shields.io/badge/Support%20Level-Tableau%20Supported-53bd92.svg)](https://www.tableau.com/support-levels-it-and-developer-tools)
 
 
-This repo is the home of the Hyper API examples. All of the samples are available for each language supported by the Hyper API: Python, Java, C++, and C#/.Net (.NET Standard 2.0). 
+This repo is the home of the Hyper API sample code. All of the samples are available for each language supported by the Hyper API: Python, Java, C++, and C#/.Net (.NET Standard 2.0). 
 
 If you are looking to learn more about the Hyper API, please check out the [official documentation](https://help.tableau.com/current/api/hyper_api/en-us/index.html). 
 
