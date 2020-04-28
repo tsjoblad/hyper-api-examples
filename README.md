@@ -1,11 +1,11 @@
 ![hyper logo](https://cdns.tblsft.com/sites/default/files/blog/hyper_logo_1.jpg)
 ^this will be smaller
 
-# Hyper API Code Samples
+# Hyper API Code Examples
 [![Tableau Supported](https://img.shields.io/badge/Support%20Level-Tableau%20Supported-53bd92.svg)](https://www.tableau.com/support-levels-it-and-developer-tools)
 
 
-This repo is the home of the Hyper API sample code. All of the samples are available for each language supported by the Hyper API: Python, Java, C++, and C#/.Net (.NET Standard 2.0). 
+This repo is the home of the Hyper API example code. All of the examples are available for each language supported by the Hyper API: Python, Java, C++, and C#/.Net (.NET Standard 2.0). 
 
 If you are looking to learn more about the Hyper API, please check out the [official documentation](https://help.tableau.com/current/api/hyper_api/en-us/index.html). 
 
@@ -19,7 +19,7 @@ For the unfamiliar, the Hyper API contains a set of functions you can use to aut
 
 
 
-## What do these samples do?
+## What do these examples do?
 There are currently eight examples that are available in each language supported:
 
 * __create_hyper_file_from_csv__
@@ -49,12 +49,12 @@ There are currently eight examples that are available in each language supported
 
 
 ## How do I install the Hyper API?
-It is a prerequisite that to work with these samples, the Hyper API is installed in your language of choice. Head to our [official Hyper API Documentation](https://help.tableau.com/current/api/hyper_api/en-us/docs/hyper_api_installing.html) to get it up and running.
+It is a prerequisite that to work with these examples, the Hyper API is installed in your language of choice. Head to our [official Hyper API Documentation](https://help.tableau.com/current/api/hyper_api/en-us/docs/hyper_api_installing.html) to get it up and running.
 
 
 
 ## How do I get help or give feedback?
-If you have questions, want to submit ideas, or give feedback on the samples, please do so by submitting an issue on this project.
+If you have questions, want to submit ideas, or give feedback on the code, please do so by submitting an issue on this project.
 
 
 
