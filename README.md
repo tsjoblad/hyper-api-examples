@@ -1,7 +1,7 @@
 # Hyper API Code Samples
 [![Tableau Supported](https://img.shields.io/badge/Support%20Level-Tableau%20Supported-53bd92.svg)](https://www.tableau.com/support-levels-it-and-developer-tools)
 
-![hyper logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tableau.com%2Fabout%2Fblog%2F2019%2F10%2Fdeliver-results-hyper-speed&psig=AOvVaw0X3Ov87Vg88jYbMUjBtV9o&ust=1588121203067000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDYsI3ziekCFQAAAAAdAAAAABAD)
+![hyper logo](https://cdns.tblsft.com/sites/default/files/blog/hyper_logo_1.jpg)
 
 
 This repo is the official home of the Hyper API examples. All of the samples are available for each language supported by the Hyper API: Python, Java, CPP, and DotNet. 
